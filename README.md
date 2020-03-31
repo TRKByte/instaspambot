@@ -1,1 +1,1 @@
-# instaspambot
+# InstagramPostSpammer
